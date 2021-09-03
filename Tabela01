@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+	<meta charset="utf-8">
+	<title>Tabela</title>
+</head>
+<body>
+	<div id="cabecalho">
+		<header>
+			<h1>Tabela Brasileirão Série A</h1>
+		</header>
+	</div>
+				
+		</div>
+	<div id="tabela">
+		<table border="5">
+			<tr>
+			<td>
+			
+			</td>
+				<td>
+					Time
+				</td>
+				<td>
+					Pontos
+				</td>
+				<td>
+					Vitórias
+				</td>
+			<td>
+				Saldo De Gols
+			</td>
+
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Atlético-MG
+				</td>
+				<td>
+					37
+				</td>
+				<td>
+					12
+				</td>
+				<td>
+					14
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Palmeiras
+				</td>
+				<td>
+					32
+				</td>
+				<td>
+					10
+				</td>
+				<td>
+					10
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Fortaleza
+				</td>
+				<td>
+					31
+				</td>
+				<td>
+					9
+				</td>
+				<td>
+					11
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Bragantino
+				</td>
+				<td>
+					28
+				</td>
+				<td>
+					7
+				</td>
+				<td>
+					8
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				<td>
+					Flamengo
+				</td>
+				<td>
+					27
+				</td>
+				<td>
+					9
+				</td>
+				<td>
+					12
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Athletico-PR
+				</td>
+				<td>
+					23
+				</td>
+				<td>
+					7
+				</td>
+				<td>
+					4
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Atlético-GO
+				</td>
+				<td>
+					23
+				</td>
+				<td>
+					6
+				</td>
+				<td>
+					-4
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Ceará SC
+				</td>
+				<td>
+					23
+				</td>
+				<td>
+					5
+				</td>
+				<td>
+					2
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Internacional
+				</td>
+				<td>
+					21
+				</td>
+				<td>
+					5
+				</td>
+				<td>
+					0
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Santos
+				</td>
+				<td>
+					21
+				</td>
+				<td>
+					5
+				</td>
+				<td>
+					0
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+
+				<td>
+					Corinthians
+				</td>
+				<td>
+					21
+				</td>
+				<td>
+					5
+				</td>
+				<td>
+					0
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Juventude
+				</td>
+				<td>
+					19
+				</td>
+				<td>
+					5
+				</td>
+				<td>
+					-5
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Bahia
+				</td>
+				<td>
+					18
+				</td>
+				<td>
+					5
+				</td>
+				<td>
+					-6
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					São Paulo
+				</td>
+				<td>
+					18
+				</td>
+				<td>
+					4
+				</td>
+				<td>
+					-6
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Fluminense
+				</td>
+				<td>
+					17
+				</td>
+				<td>
+					4
+				</td>
+				<td>
+					-5
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Cuiabá
+				</td>
+				<td>
+					17
+				</td>
+				<td>
+					3
+				</td>
+				<td>
+					-2
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Sport Recife
+				</td>
+				<td>
+					15
+				</td>
+				<td>
+					3
+				</td>
+				<td>
+					-5
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					América-MG
+				</td>
+				<td>
+					15
+				</td>
+				<td>
+					3
+				</td>
+				<td>
+					-7
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Grêmio
+				</td>
+				<td>
+					10
+				</td>
+				<td>
+					2
+				</td>
+				<td>
+					-8
+				</td>
+			</tr>
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					Chapecoense
+				</td>
+				<td>
+					5
+				</td>
+				<td>
+					0
+				</td>
+				<td>
+					-15
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div id="rodape">
+	<p>Feito por : Eduardo Dos Santos Ferreira</p>	
+	</div>
+</body>
+</html>
